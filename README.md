@@ -38,7 +38,7 @@ This project builds an **LSTM-based deep learning model** to predict the **Remai
 ## 📈 Visualizations
 
 ### Engine Degradation Tracking (with 95% Confidence Interval)
-![Degradation Curve](assets/Degradation Pattern Learning.png)
+![Degradation Curve](assets/Degradation-curve.png)
 
 ### Actual vs Predicted RUL
 ![Scatter Plot](assets/Scatter-plot.png)
